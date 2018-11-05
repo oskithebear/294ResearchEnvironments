@@ -26,11 +26,7 @@ RenderSettings:
   m_AmbientIntensity: 1
   m_AmbientMode: 0
   m_SubtractiveShadowColor: {r: 0.42, g: 0.478, b: 0.627, a: 1}
-<<<<<<< HEAD
   m_SkyboxMaterial: {fileID: 2100000, guid: f4e0d11f2611a479187eafd94c80e977, type: 2}
-=======
-  m_SkyboxMaterial: {fileID: 10304, guid: 0000000000000000f000000000000000, type: 0}
->>>>>>> refs/remotes/origin/master
   m_HaloStrength: 0.5
   m_FlareStrength: 1
   m_FlareFadeSpeed: 3
@@ -42,11 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-<<<<<<< HEAD
   m_IndirectSpecularColor: {r: 0.064486764, g: 0.070040815, b: 0.077547096, a: 1}
-=======
-  m_IndirectSpecularColor: {r: 0.44657898, g: 0.4964133, b: 0.5748178, a: 1}
->>>>>>> refs/remotes/origin/master
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -121,7 +113,6 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
-<<<<<<< HEAD
 --- !u!1001 &11375130
 Prefab:
   m_ObjectHideFlags: 0
@@ -188,8 +179,6 @@ Prefab:
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: edf103d51dd914e0eafb67f599c2de51, type: 2}
   m_IsPrefabAsset: 0
-=======
->>>>>>> refs/remotes/origin/master
 --- !u!1 &170076733
 GameObject:
   m_ObjectHideFlags: 0
@@ -254,7 +243,6 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-<<<<<<< HEAD
   m_RootOrder: 19
   m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
 --- !u!1001 &229834680
@@ -697,10 +685,6 @@ Prefab:
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f764c6051db064c659dba68839a16bbf, type: 2}
   m_IsPrefabAsset: 0
-=======
-  m_RootOrder: 1
-  m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
->>>>>>> refs/remotes/origin/master
 --- !u!1 &534669902
 GameObject:
   m_ObjectHideFlags: 0
@@ -771,7 +755,6 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 534669902}
-<<<<<<< HEAD
   m_LocalRotation: {x: -0, y: -0.6840131, z: -0, w: 0.7294698}
   m_LocalPosition: {x: 33.09, y: 4.77, z: -18.5}
   m_LocalScale: {x: 0.49927, y: 1, z: 1}
@@ -2489,12 +2472,3 @@ Prefab:
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: edbe4661ee778bc4f9c9a65b7f89b82b, type: 2}
   m_IsPrefabAsset: 0
-=======
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 1, z: -10}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
->>>>>>> refs/remotes/origin/master
