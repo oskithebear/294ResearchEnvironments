@@ -45,7 +45,7 @@ MonoBehaviour:
   m_MinSize: {x: 683, y: 492}
   m_MaxSize: {x: 14004, y: 14042}
   vertical: 0
-  controlID: 48
+  controlID: 55
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -210,7 +210,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 492}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
-  controlID: 49
+  controlID: 56
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -234,7 +234,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 221}
   m_MaxSize: {x: 8006, y: 4021}
   vertical: 0
-  controlID: 50
+  controlID: 57
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -354,20 +354,20 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/VolumetricFog/Resources/Profiles
+    - Assets/Materials
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/VolumetricFog/Resources/Profiles
+  - Assets/Materials
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\Julia\Documents\GitHub\294ResearchEnvironments\MountainScene
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 103}
-    m_SelectedIDs: 022d0000
-    m_LastClickedID: 11522
-    m_ExpandedIDs: 00000000f42a00007a2b0000dc2b0000bc2c0000f82c0000fe2e0000882f0000c0300000c2300000c4300000c6300000c8300000ca30000000ca9a3b
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: 840c0000
+    m_LastClickedID: 3204
+    m_ExpandedIDs: 00000000e8090000700a0000b20b0000ee0b0000723000007430000076300000783000007a3000007c30000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -395,7 +395,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000f42a00007a2b0000dc2b0000bc2c0000fe2e0000882f0000c0300000c2300000c4300000c6300000c8300000ca300000
+    m_ExpandedIDs: 00000000e8090000700a0000b20b0000ee0b0000723000007430000076300000783000007a3000007c300000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -513,7 +513,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: fcf9ffff00000000
+    m_ExpandedIDs: 7e6afdff44fbffffc4fbffffe6fbffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -532,7 +532,7 @@ MonoBehaviour:
       m_ClientGUIView: {fileID: 4}
     m_SearchString: 
   m_ExpandedScenes:
-  - SampleScene
+  - Mountain
   m_CurrenRootInstanceID: 0
   m_LockTracker:
     m_IsLocked: 0
@@ -568,9 +568,9 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -640.98737, y: -7.228614, z: 1693.9293}
+    m_Target: {x: -534.6191, y: 251.04887, z: 3287.523}
     speed: 2
-    m_Value: {x: -640.98737, y: -7.228614, z: 1693.9293}
+    m_Value: {x: -534.6191, y: 251.04887, z: 3287.523}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -598,13 +598,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: -0.043455, y: 0.03688657, z: -0.0016048342, w: -0.9983729}
+    m_Target: {x: -0.06076732, y: -0.115540825, z: 0.0070832707, w: -0.99141693}
     speed: 2
-    m_Value: {x: -0.043455, y: 0.03688657, z: -0.0016048342, w: -0.9983729}
+    m_Value: {x: -0.06076732, y: -0.115540825, z: 0.0070832707, w: -0.99141693}
   m_Size:
-    m_Target: 1760.1912
+    m_Target: 3956.3875
     speed: 2
-    m_Value: 1760.1912
+    m_Value: 3956.3875
   m_Ortho:
     m_Target: 0
     speed: 2

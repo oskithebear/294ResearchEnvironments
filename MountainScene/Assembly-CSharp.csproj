@@ -121,7 +121,6 @@
     <None Include="Assets\VolumetricFog\Extra\DynamicFog\Resources\Shaders\DFGWithSky.shader" />
     <None Include="Assets\VolumetricFog\Extra\DynamicFog\Resources\Shaders\DFMStandardShaderNormalOcclusion.shader" />
     <None Include="Assets\VolumetricFog\Extra\DynamicFog\Resources\Shaders\DFMStandardShaderNormal.shader" />
-    <None Include="Assets\Mount it HD Skybox Pack\Skybox\README_SKYBOX.txt" />
     <None Include="Assets\VolumetricFog\Extra\DynamicFog\README.txt" />
     <None Include="Assets\VolumetricFog\Resources\Extra\Sprites\Shaders\SpriteFogCommon.cginc" />
     <None Include="Assets\VolumetricFog\Resources\Shaders\CopyDepth.shader" />
