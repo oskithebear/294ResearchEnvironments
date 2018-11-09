@@ -12,25 +12,25 @@ MonoBehaviour:
   m_Name: VolumetricFogProfile
   m_EditorClassIdentifier: 
   lightingModel: 0
-  sunCopyColor: 0
-  density: 0.948
-  noiseStrength: 1
-  height: 58
-  baselineHeight: 0
-  distance: 0
+  sunCopyColor: 1
+  density: 0.094
+  noiseStrength: 0.7
+  height: 150
+  baselineHeight: 130
+  distance: 1000
   distanceFallOff: 0
   maxFogLength: 2000
   maxFogLengthFallOff: 0
   baselineRelativeToCamera: 0
   baselineRelativeToCameraDelay: 0
-  noiseScale: 9.9
-  noiseSparse: -0.14
+  noiseScale: 11.2
+  noiseSparse: 0.3
   noiseFinalMultiplier: 1
   alpha: 0.98
-  color: {r: 1, g: 1, b: 1, a: 1}
+  color: {r: 0.9528302, g: 0.9528302, b: 0.9528302, a: 1}
   specularColor: {r: 1, g: 1, b: 0.8, a: 1}
   specularThreshold: 0.6
-  specularIntensity: 0.259
+  specularIntensity: 0.15
   lightDirection: {x: -1, y: 0, z: -1}
   lightIntensity: 0.15
   lightColor: {r: 1, g: 1, b: 1, a: 1}
@@ -44,7 +44,7 @@ MonoBehaviour:
   skySpeed: 0.3
   skyNoiseStrength: 1
   skyAlpha: 0.96
-  stepping: 6
+  stepping: 12
   steppingNear: 0
   dithering: 1
   ditherStrength: 1
