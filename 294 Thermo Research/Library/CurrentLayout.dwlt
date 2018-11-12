@@ -45,7 +45,7 @@ MonoBehaviour:
   m_MinSize: {x: 683, y: 492}
   m_MaxSize: {x: 14004, y: 14042}
   vertical: 0
-  controlID: 67
+  controlID: 71
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -64,8 +64,8 @@ MonoBehaviour:
     y: 0
     width: 292
     height: 757
-  m_MinSize: {x: 277, y: 71}
-  m_MaxSize: {x: 4002, y: 4021}
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 14}
   m_Panes:
   - {fileID: 14}
@@ -89,8 +89,8 @@ MonoBehaviour:
     y: 0
     width: 284
     height: 458
-  m_MinSize: {x: 202, y: 221}
-  m_MaxSize: {x: 4002, y: 4021}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 15}
   m_Panes:
   - {fileID: 15}
@@ -209,7 +209,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 492}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
-  controlID: 68
+  controlID: 72
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -233,7 +233,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 221}
   m_MaxSize: {x: 8006, y: 4021}
   vertical: 0
-  controlID: 69
+  controlID: 73
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -323,21 +323,21 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Textures/Backdrops/Materials
+    - Assets/Prefabs
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets/Textures/Backdrops/Materials
+  - Assets/Prefabs
   m_LastFoldersGridSize: 16
   m_LastProjectPath: /Users/madihight/GitHub/294ResearchEnvironments/294ResearchEnvironments/294
     Thermo Research
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 223}
-    m_SelectedIDs: 08390000
-    m_LastClickedID: 14600
-    m_ExpandedIDs: 00000000ba090000d60900006a0b0000bc100000e4140000d038000000ca9a3b
+    scrollPos: {x: 0, y: 91.00006}
+    m_SelectedIDs: d00d0000
+    m_LastClickedID: 3536
+    m_ExpandedIDs: 00000000ba090000dc090000200e0000d41000000e15000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -365,7 +365,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000ba090000d60900006a0b0000bc100000e4140000
+    m_ExpandedIDs: 00000000ba090000dc090000780b0000200e0000d41000000e150000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -409,7 +409,7 @@ MonoBehaviour:
       m_IsRenaming: 0
       m_OriginalEventType: 11
       m_IsRenamingFilename: 1
-      m_ClientGUIView: {fileID: 0}
+      m_ClientGUIView: {fileID: 5}
     m_CreateAssetUtility:
       m_EndAction: {fileID: 0}
       m_InstanceID: 0
@@ -480,10 +480,10 @@ MonoBehaviour:
     height: 437
   m_PersistentViewDataDictionary: {fileID: 0}
   m_TreeViewState:
-    scrollPos: {x: 0, y: 268}
-    m_SelectedIDs: 5ae7ffff
-    m_LastClickedID: 0
-    m_ExpandedIDs: e6fbffff00000000
+    scrollPos: {x: 0, y: 156}
+    m_SelectedIDs: 82f7ffff
+    m_LastClickedID: -2174
+    m_ExpandedIDs: 1452fdffe6fbffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -499,7 +499,7 @@ MonoBehaviour:
       m_IsRenaming: 0
       m_OriginalEventType: 11
       m_IsRenamingFilename: 0
-      m_ClientGUIView: {fileID: 0}
+      m_ClientGUIView: {fileID: 4}
     m_SearchString: 
   m_ExpandedScenes:
   - Forest Scene
@@ -533,14 +533,14 @@ MonoBehaviour:
     height: 437
   m_PersistentViewDataDictionary: {fileID: 0}
   m_SceneLighting: 1
-  lastFramingTime: 992.1388618946075
+  lastFramingTime: 3788.7929310798645
   m_2DMode: 0
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -35.9007, y: 4.9787087, z: -5.8779325}
+    m_Target: {x: -6.7510767, y: 7.4906273, z: 12.565139}
     speed: 2
-    m_Value: {x: -35.9007, y: 4.9787087, z: -5.8779325}
+    m_Value: {x: -6.7510767, y: 7.4906273, z: 12.565139}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -568,13 +568,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: 0.026653422, y: -0.7927179, z: 0.034751084, w: 0.60801345}
+    m_Target: {x: -0.06450814, y: -0.089090005, z: 0.005769394, w: -0.99392056}
     speed: 2
-    m_Value: {x: 0.026653422, y: -0.7927179, z: 0.034751084, w: 0.60801345}
+    m_Value: {x: -0.064507835, y: -0.08908958, z: 0.0057693664, w: -0.9939158}
   m_Size:
-    m_Target: 28.013817
+    m_Target: 60.608463
     speed: 2
-    m_Value: 28.013817
+    m_Value: 60.608463
   m_Ortho:
     m_Target: 0
     speed: 2
