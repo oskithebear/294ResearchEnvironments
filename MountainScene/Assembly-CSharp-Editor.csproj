@@ -61,6 +61,14 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Oculus\VR\Editor\OVRBuild.cs" />
+    <Compile Include="Assets\Oculus\VR\Editor\OVREngineConfigurationUpdater.cs" />
+    <Compile Include="Assets\Oculus\VR\Editor\OVRLayerAttributeEditor.cs" />
+    <Compile Include="Assets\Oculus\VR\Editor\OVRManifestPreprocessor.cs" />
+    <Compile Include="Assets\Oculus\VR\Editor\OVRPluginUpdater.cs" />
+    <Compile Include="Assets\Oculus\VR\Editor\OVRPluginUpdaterStub.cs" />
+    <Compile Include="Assets\Oculus\VR\Editor\OVRScreenshotWizard.cs" />
+    <Compile Include="Assets\Oculus\VR\Scripts\Editor\OVRManagerEditor.cs" />
     <Compile Include="Assets\VolumetricFog\Editor\FogVolumeExtensions.cs" />
     <Compile Include="Assets\VolumetricFog\Editor\VolumetricFogAbout.cs" />
     <Compile Include="Assets\VolumetricFog\Editor\VolumetricFogEditorStyles.cs" />
@@ -76,6 +84,7 @@
     <Compile Include="Assets\VolumetricFog\Extra\DynamicFog\Editor\DynamicFogManagerEditor.cs" />
     <Compile Include="Assets\VolumetricFog\Extra\DynamicFog\Editor\DynamicFogProfileEditor.cs" />
     <Compile Include="Assets\VolumetricFog\Extra\DynamicFog\Editor\FogVolumeExtensions.cs" />
+    <None Include="Assets\Oculus\VR\Editor\AndroidManifest.OVRSubmission.xml" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>/Users/madihight/GitHub/294ResearchEnvironments/294ResearchEnvironments/MountainScene/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
