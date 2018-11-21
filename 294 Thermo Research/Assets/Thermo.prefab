@@ -48,7 +48,7 @@ MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1544261438309268}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 55743874d6b5d3540b5342d51d6b815c, type: 3}
   m_Name: 
@@ -59,7 +59,7 @@ MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1544261438309268}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 38cc5a5a2f5cace49aa3560573d3289e, type: 3}
   m_Name: 
@@ -81,4 +81,3 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 554fc506b92d8154db51cd625c209ee2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  dataServer: {fileID: 114018740171656578}

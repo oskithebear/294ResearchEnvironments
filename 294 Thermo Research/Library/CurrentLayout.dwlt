@@ -13,7 +13,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_PixelRect:
     serializedVersion: 2
-    x: 91
+    x: 133
     y: 51
     width: 1662
     height: 981
@@ -42,10 +42,10 @@ MonoBehaviour:
     y: 30
     width: 1662
     height: 931
-  m_MinSize: {x: 681, y: 492}
-  m_MaxSize: {x: 14004, y: 14042}
+  m_MinSize: {x: 679, y: 492}
+  m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 80
+  controlID: 46
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -64,8 +64,8 @@ MonoBehaviour:
     y: 0
     width: 483
     height: 931
-  m_MinSize: {x: 277, y: 71}
-  m_MaxSize: {x: 4002, y: 4021}
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 14}
   m_Panes:
   - {fileID: 14}
@@ -209,7 +209,7 @@ MonoBehaviour:
   m_MinSize: {x: 404, y: 492}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
-  controlID: 81
+  controlID: 47
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -233,7 +233,7 @@ MonoBehaviour:
   m_MinSize: {x: 404, y: 221}
   m_MaxSize: {x: 8004, y: 4021}
   vertical: 0
-  controlID: 82
+  controlID: 48
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -281,7 +281,7 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 402
+    x: 482
     y: 100
     width: 828
     height: 542
@@ -306,7 +306,7 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 91
+    x: 133
     y: 663
     width: 1177
     height: 347
@@ -323,11 +323,11 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/StreamingAssets/BluetoothToTCP
+    - Assets/Audio
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets/StreamingAssets/BluetoothToTCP
+  - Assets/Audio
   m_LastFoldersGridSize: 16
   m_LastProjectPath: C:\Users\vrab\Documents\GitHub\294ResearchEnvironments\294 Thermo
     Research
@@ -335,9 +335,9 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 26}
-    m_SelectedIDs: 500e0000
-    m_LastClickedID: 3664
-    m_ExpandedIDs: 000000003e0c0000b4120000f21200006e130000321400006c15000046160000fe180000761900007c1c0000941d00001c430000
+    m_SelectedIDs: 5c430000
+    m_LastClickedID: 17244
+    m_ExpandedIDs: 00000000480c0000be120000fc120000781300003c14000076150000501600000a19000082190000881c0000a01d000034430000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -365,7 +365,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000003e0c0000b4120000f2120000321400006c15000046160000fe180000761900007c1c0000de1c0000941d00001c430000
+    m_ExpandedIDs: 00000000480c0000be120000fc120000781300003c14000076150000501600000a19000082190000881c0000a01d000034430000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -396,18 +396,18 @@ MonoBehaviour:
     m_ExpandedInstanceIDs: c6230000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: BluetoothToTCP
-      m_OriginalName: BluetoothToTCP
+      m_Name: 
+      m_OriginalName: 
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 17208
+      m_UserData: 0
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 0
+      m_OriginalEventType: 11
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 5}
     m_CreateAssetUtility:
@@ -440,7 +440,7 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 1272
+    x: 1314
     y: 100
     width: 481
     height: 910
@@ -474,16 +474,16 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 91
+    x: 133
     y: 100
     width: 345
     height: 542
   m_PersistentViewDataDictionary: {fileID: 0}
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 38430000
-    m_LastClickedID: 0
-    m_ExpandedIDs: e6fbffff00000000661f0000
+    m_SelectedIDs: 9607ffff
+    m_LastClickedID: -63594
+    m_ExpandedIDs: defbffff00000000c41e00006c1f0000761f0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -527,20 +527,20 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 440
+    x: 482
     y: 100
     width: 828
     height: 542
   m_PersistentViewDataDictionary: {fileID: 0}
   m_SceneLighting: 0
-  lastFramingTime: 5221.217149304552
+  lastFramingTime: 282.6189662277231
   m_2DMode: 0
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -9.432287, y: -2.6467278, z: -15.211799}
+    m_Target: {x: -10.09, y: -2.04, z: -14.63}
     speed: 2
-    m_Value: {x: -9.432287, y: -2.6467278, z: -15.211799}
+    m_Value: {x: -10.09, y: -2.04, z: -14.63}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -568,13 +568,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: 0.28039923, y: -0.034546565, z: 0.01009901, w: 0.9592133}
+    m_Target: {x: 0.15303601, y: 0.84297174, z: -0.31729734, w: 0.40657634}
     speed: 2
-    m_Value: {x: -0.28039923, y: 0.034546565, z: -0.01009901, w: -0.9592133}
+    m_Value: {x: 0.15303576, y: 0.8429703, z: -0.3172968, w: 0.40657565}
   m_Size:
-    m_Target: 5.792096
+    m_Target: 8.044775
     speed: 2
-    m_Value: 5.792096
+    m_Value: 8.044775
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -606,7 +606,7 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 440
+    x: 482
     y: 100
     width: 828
     height: 542
@@ -685,7 +685,7 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 91
+    x: 133
     y: 663
     width: 1177
     height: 347
